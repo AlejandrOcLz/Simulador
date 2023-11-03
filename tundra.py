@@ -1,8 +1,8 @@
 import pygame
 import math
 
-class SelvaAlta:
-    def __init__(self, center_x, center_y, size=50, color=(23, 117, 50)):
+class Tundra:
+    def __init__(self, center_x, center_y, size=50, color=(218, 228, 242)):
         self.center_x = center_x
         self.center_y = center_y
         self.size = size
